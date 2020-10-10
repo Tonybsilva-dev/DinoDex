@@ -1,0 +1,12 @@
+.App{
+  padding-top: 4rem;
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #fafafa;
+  background-repeat: repeat;
+}
+
+.navbar{
+  background-color: #ef5350 !important;
+}
