@@ -1,3 +1,61 @@
+# DinoDex
+> Short blurb about what your product does.
+
+A virtual encyclopedia that lists all the different dinosaur species
+
+![](header.png)
+
+## Installation
+
+OS X & Linux:
+
+```
+***
+```
+
+Windows:
+
+```
+***
+```
+
+## Usage example
+
+* Work in progress
+
+ _For more examples and usage, please refer to the [Wiki][wiki]._
+
+## Development setup
+
+* Work in progress
+
+```
+***
+```
+## Release History
+
+* 0.0.1
+    * Work in progress
+
+## Meta
+
+Antônio Bernardino da Silva – [@Tonybsilvaaa](https://twitter.com/tonybsilvaaa) – tonybsilvadev@gmail.com
+
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
+[https://github.com/Tonybsilva-dev/DinoDex](https://github.com/Tonybsilva-dev/)
+
+## Contributing
+
+1. Fork it (<https://github.com/Tonybsilva-dev/DinoDex/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -m 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<!-- Markdown link & img dfn's -->
+[wiki]: https://github.com/Tonybsilva-dev/DinoDex/wiki
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people
