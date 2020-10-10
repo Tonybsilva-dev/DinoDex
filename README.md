@@ -1,8 +1,8 @@
 # DinoDex
 > A virtual encyclopedia that lists all the different dinosaur species
-
-![](header.png)
-
+<h1 align="center">
+<img src="https://i.imgur.com/YyE9hba.png" alt="temp_logo">
+<h1/>
 ## Installation
 
 OS X & Linux:
