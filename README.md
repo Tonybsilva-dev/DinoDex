@@ -1,7 +1,5 @@
 # DinoDex
-> Short blurb about what your product does.
-
-A virtual encyclopedia that lists all the different dinosaur species
+> A virtual encyclopedia that lists all the different dinosaur species
 
 ![](header.png)
 
