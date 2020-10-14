@@ -1,44 +1,78 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center">
+DinoDex
+<h1/>
+ 
+<h1 align="center">
+<img src="https://i.imgur.com/0yYGjI9.png" alt="temp_logo">
+<h1/>
+<h5 align="center">
+ A virtual encyclopedia that lists all the different dinosaur species
+<h5/>
+## Installation
 
-In the project directory, you can run:
+OS X & Linux:
 
-### `yarn start`
+```
+***
+```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Windows:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+```
+***
+```
 
-### `yarn test`
+## Usage example
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Work in progress
 
-### `yarn build`
+ _For more examples and usage, please refer to the [Wiki][wiki]._
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Development setup
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* Work in progress
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+***
+```
+## Release History
 
-### `yarn eject`
+* 0.0.1
+    * Work in progress
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Meta
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Antônio Bernardino da Silva – [@Tonybsilvaaa](https://twitter.com/tonybsilvaaa) – tonybsilvadev@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[https://github.com/Tonybsilva-dev/DinoDex](https://github.com/Tonybsilva-dev/)
 
-## Learn More
+## Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Fork it (<https://github.com/Tonybsilva-dev/DinoDex/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -m 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- Markdown link & img dfn's -->
+[wiki]: https://github.com/Tonybsilva-dev/DinoDex/wiki
+
+## Contributors ✨
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/jrjuniorcg"><img src="https://avatars2.githubusercontent.com/u/24655967?s=460&v=4.png" width="64px;" alt=""/><br /><sub><b>Júnior Santos</b></sub></a><br /><a href="#" title="Code">💻</a> <a href="#" title="Maintenance">🚧</a> <a href="https://github.com/Tonybsilva-dev/DinoDex/commits?author=jrjuniorcg" title="Documentation">📖</a> <a href="#" title="Examples">💡</a> <a href="#" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
