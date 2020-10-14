@@ -1,12 +1,12 @@
 import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
-import Dashboard from "../components/layout/Dashboard";
+import Album from "../components/layout/Album";
 
 export default function Routes() {
   return (
     <>
       <BrowserRouter>
-        <Route exact path="/" component={Dashboard} />
+        <Route exact path="/" component={Album} />
       </BrowserRouter>
     </>
   );
